@@ -1,4 +1,4 @@
-# AI Resume Analyzer (2026 Edition) 🚀
+# AI Resume Analyzer 
 
 A modern full-stack **MERN** web application powered by **Google Gemini API** and automated **PDF text extraction**. It analyzes candidate resume PDFs against target job descriptions, providing an ATS match score, categorised skill alignments, identified gaps, and actionable improvement recommendations.
 
